@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack | MERN | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=<your-username>&label=Profile%20views&color=0e75b6&style=flat" alt="<your-username>" />
+  <img src="https://avatars.githubusercontent.com/u/95171578?v=4" alt="harishummam" />
 </p>
 
 ---
