@@ -32,25 +32,24 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishummam&layout=compact&theme=radical" alt="top languages" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harishummam&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harishummam&theme=radical" alt="streak" />
 </p>
 
 ---
 
 ### 🌐 Connect with Me  
 <p align="center">
-  <a href="https://linkedin.com/in/haris-hummam-a404621ba/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  $nbsp;$nbsp;$nbsp;
-  <a href="https://twitter.com/<your-twitter>" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-  $nbsp;$nbsp;$nbsp;
-  <a href="mailto:harishummambaluch@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+  <table>
+    <tr>
+      <td><a href="https://linkedin.com/in/haris-hummam-a404621ba/"><img src="https://skillicons.dev/icons?i=linkedin" /></a></td>
+      <td><a href="https://twitter.com/<your-twitter>"><img src="https://skillicons.dev/icons?i=twitter" /></a></td>
+      <td><a href="mailto:harishummambaluch@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a></td>
+    </tr>
+  </table>
 </p>
 
 ---
